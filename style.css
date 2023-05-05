@@ -1,0 +1,46 @@
+ h2.blog{
+    color: #262626;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 1.5px;
+    font-size: 2rem;
+    line-height: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h3.blog{
+    font-size: 1.5rem;
+    line-height: 1.5em;
+}
+p.blog{
+    margin-top: 0;
+    margin-bottom: .9rem;
+    font-size: 1.1rem;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+
+li.blog{
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    font-family: "Roboto", Sans-serif;
+
+}
+aside.blog{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+  div.blog
+  {
+    display: flex; align-items: center;
+  }
+img.blog{
+    margin: auto;
+    background-size: cover;
+  }
